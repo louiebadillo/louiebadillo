@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @louiebadillo
-- 👀 I’m interested in food
-- 🌱 I’m currently learning software
-- 💞️ I’m looking to collaborate on onlyfams
 - 📫 How to reach me 403-835-5952
 
 <!---
